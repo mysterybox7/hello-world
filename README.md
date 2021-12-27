@@ -1,3 +1,3 @@
 # hello-world
-hello everyone ,
+Hello Everyone ,
 Iam Sai Prasanna kumar
